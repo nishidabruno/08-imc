@@ -1,0 +1,12 @@
+{
+  "name": "atv07-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "imc.js",
+  "scripts": {
+    "imc": "node -e 'require(\"./imc.js\").imc(70, 1.80)'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
